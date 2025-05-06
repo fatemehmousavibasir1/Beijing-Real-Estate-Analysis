@@ -57,7 +57,7 @@ pip install numpy pandas matplotlib seaborn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fatemehmousavibasir1/beijing-housing-analysis.git
+   git clone https://github.com/fatemehmousavibasir1/Beijing-Real-Estate-Analysis.git
    ```
 
 2. Start from `Beijing_1_fill_missing_values.ipynb` and run each notebook in sequence.
